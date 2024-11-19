@@ -1,0 +1,12 @@
+[world]
+description = "Puppet vs Gizmo "
+name = "puppet_vs_gizmo"
+seed = "puppet_vs_gizmo"
+
+[namespace]
+default = "puppet_vs_gizmo"
+
+[env]
+rpc_url = "http://localhost:5050/"
+account_address = "0x13d9ee239f33fea4f8785b9e3870ade909e20a9599ae7cd62c1c292b73af1b7"
+private_key = "0x1c9053c053edf324aec366a34c6901b1095b07af69495bffec7d7fe21effb1b"
